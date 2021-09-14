@@ -2,8 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="504c4c2a-9829-44f2-bc6c-e4eeeecec8b1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/zadanie1/obraz.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/zadanie1/przyklad1a.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zadanie2/obraz.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zadanie2/obraz.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zadanie2/obraz2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zadanie2/obraz4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zadanie2/przyklad1a.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -23,9 +26,14 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/zadanie2" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\PioMik\Desktop\Witryny\zadanie2" />
+    </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -36,7 +44,7 @@
       <option name="presentableId" value="Default" />
       <updated>1630995459490</updated>
       <workItem from="1630995461068" duration="3901000" />
-      <workItem from="1631598429188" duration="715000" />
+      <workItem from="1631598429188" duration="2085000" />
     </task>
     <servers />
   </component>
